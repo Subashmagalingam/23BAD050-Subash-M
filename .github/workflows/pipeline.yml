@@ -5,10 +5,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
-        run: echo"Hello World!"
+        run: echo "Hello World!"
       - name: assignment
-        run: echo"assignment submitting!"
+        run: echo "assignment submitting!"
       - name: exam
-        run: echo"exam writting!"
+        run: echo "exam writting!"
       - name: lab
-        run: echo"lab attening!"
+        run: echo "lab attening!"
